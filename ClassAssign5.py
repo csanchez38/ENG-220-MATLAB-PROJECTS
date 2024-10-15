@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1galFJQe2ay2yGeFwBugZlFvGmFcoERJJ
 """
 
-! pip install streamlit
-
 import pandas as pd
 # Title of the app
 st.title('Student Data')
